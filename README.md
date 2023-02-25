@@ -1,8 +1,10 @@
-# neotap pack
+# neopack
 
-`ver. 1.20 rel-neotap.net`
+`ver. 1.20.0 rel-neotap.net`
 
-Belongs to neotap INC. All terms stated in the [TOS](https://neotap.net/terms) apply. Do not distribute for own benefit. If you do want to distribute this you can, just don't profit from it. Also you can use textures as long as you mention/credit me.
+Belongs to neotap CO. All terms stated in the [TOS](https://neotap.net/terms) apply.
+
+#### Licence: MIT
 
 #### Downloads: https://neotap.net/mc
 
@@ -36,6 +38,7 @@ These **only** work with [Optifine](https://optifine.net/downloads)
 ## CHANGE LOG
 
 ```diff
++ Slight rename
 + Updated packmcmeta
 + Small icon change
 + Reviewed whole pack
